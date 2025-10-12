@@ -1,16 +1,10 @@
 # BBLL V5
 ![ic_launcher_tv](https://user-images.githubusercontent.com/4136777/207619332-6f4f2959-32d6-4596-9d8f-a9eff20edd4f.png)
-#### 一个第三方哔哩哔哩客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，只是对于B站已有的API进行封装，所有数据来自于B站官方API，本人不对内容负责。应用通过firebase和~~appcenter~~收集的数据包括用户设备相关信息，以及崩溃日志，不会收集你的个人信息。
-#### A third-party bilibili client, For learning and communication only. This application is developed as a personal interest. BBLL does not have any cracking behavior, but only encapsulates the existing API of Bilibili. All data comes from the official API of Bilibili. I am not responsible for the content. The data collected by the app through firebase and appcenter includes user device information and crash logs, and your personal information will not be collected.
+#### 一个第三方哔哩哔哩客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，只是对于B站已有的API进行封装，所有数据来自于B站官方API，本人不对内容负责。应用不会收集任何信息
+<img width="176" height="176" alt="image" src="https://github.com/user-attachments/assets/56635b1e-ca3e-43e5-98ac-47a5961b1cbd" />
 
-🔗[隔壁A站客户端ACAC](https://github.com/xiaye13579/ACAC)
-## Q&A
-#### 快进快退的操作
-双击屏幕左右侧、拖动进度条、播放控件隐藏时按遥控器D-Pad按钮的左右键、多媒体遥控器上的快进快退按钮等方式
-#### 如何刷新当前页面
-左侧点击高亮的Tab即可刷新当前页面
-#### 无法播放的问题
-应用播放功能基于硬件解码(啊对对对），暂时未加入其他软件解码器。不敢保证所有设备都可以正常播放视频，播放失败可以尝试切换视频清晰度和视频编码来试试。~~后续可能有计划加入外置软件解码，但可能会导致应用体积变大。~~
+#### 现状
+看看bilibili还会怎样，如果再次加强风控的话，那这个通过反编译吊着一口气的bbll也就没了吧（不过这样老客户端也用不了了，总不能云控传参吧）
 
 #### 分析
 使用 blackbox64 框架 算法助手 去检测 httpcanary 抓包
