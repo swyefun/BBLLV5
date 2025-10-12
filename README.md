@@ -11,3 +11,6 @@
 #### 鸣谢
 [https://github.com/SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=swyefun/BBLLV5&type=Date)](https://www.star-history.com/#swyefun/BBLLV5&Date)
